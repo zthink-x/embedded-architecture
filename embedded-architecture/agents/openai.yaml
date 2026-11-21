@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用 MCU 开发"
+  short_description: "面向 STM32、ESP32、GD32 等 MCU，按 BSP/App 开发、补齐源码注释并报告资源占用"
+  default_prompt: "使用 $embedded-architecture，识别当前 MCU 和 SDK，按独立 App/BSP 两层结构开发固件，优化外设 CPU 占用与缓冲管理，为新增和修改代码写明必要注释，每次改码后检查并补齐、纠正相关注释、报告当前 CPU/RAM/Flash 及栈堆占用与变化。"
