@@ -1,7 +1,7 @@
 # 通用 MCU 开发 Skill
 
 用于 STM32、ESP32、GD32 等 MCU 的 C/C++ 固件开发，适用于裸机和 RTOS 工程。
-
+持续更新中～
 ## 安装与使用
 
 下载仓库 ZIP 并解压，将含有 `SKILL.md` 的目录命名为 `embedded-architecture`，放入 Codex 的个人技能目录。在使用 `~/.codex/skills/` 的环境中，安装后的入口为 `~/.codex/skills/embedded-architecture/SKILL.md`。在 MCU 工程中打开新的 Codex 对话，可按下面的方式调用。
